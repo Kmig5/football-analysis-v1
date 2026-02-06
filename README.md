@@ -2,8 +2,12 @@
 ## Description
 Ce projet vise à analyser les
 statistiques des buteurs pour prédire les performances futures.
-##Technologies
+
+## Technologies
+
 - python
 - pandas
-##Crédits
+
+## Crédits
+
 Les données proviennent d'une source open source
